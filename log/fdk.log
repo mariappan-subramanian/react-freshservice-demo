@@ -1,0 +1,338 @@
+2022-10-25 12:45:21.090 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ws.freshdev.io/cli/updates.json","period":24},"log":{"level":"info"},"javascript":{"ecma_version":2020}}"[0m
+2022-10-25 12:45:21.092 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/.fdk/configs.json: Cannot find module '/Users/marsubramanian/.fdk/configs.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:45:21.092 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2022-10-25 12:45:21.092 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/Desktop/freshservice/.fdk/configs.json: Cannot find module '/Users/marsubramanian/Desktop/freshservice/.fdk/configs.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:45:21.092 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2022-10-25 12:45:21.093 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{}}"[0m
+2022-10-25 12:45:21.093 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ws.freshdev.io/cli/updates.json","period":24},"log":{"level":"info"},"javascript":{"ecma_version":2020}}"[0m
+2022-10-25 12:45:21.093 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v16.13.0 on darwin[0m
+2022-10-25 12:45:21.093 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "/Users/marsubramanian/Desktop/freshservice/.fdk/store.sqlite"[0m
+2022-10-25 12:45:21.094 +0530 [error] [31m[ERROR][0m  Node.js version of 14.x.x is required to run this SDK. v16.13.0 found.
+2022-10-25 12:45:27.938 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ws.freshdev.io/cli/updates.json","period":24},"log":{"level":"info"},"javascript":{"ecma_version":2020}}"[0m
+2022-10-25 12:45:27.939 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/.fdk/configs.json: Cannot find module '/Users/marsubramanian/.fdk/configs.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:45:27.939 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2022-10-25 12:45:27.939 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/Desktop/freshservice/.fdk/configs.json: Cannot find module '/Users/marsubramanian/Desktop/freshservice/.fdk/configs.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:45:27.940 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2022-10-25 12:45:27.940 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{}}"[0m
+2022-10-25 12:45:27.940 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ws.freshdev.io/cli/updates.json","period":24},"log":{"level":"info"},"javascript":{"ecma_version":2020}}"[0m
+2022-10-25 12:45:27.940 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v14.19.3 on darwin[0m
+2022-10-25 12:45:27.940 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "/Users/marsubramanian/Desktop/freshservice/.fdk/store.sqlite"[0m
+2022-10-25 12:45:27.940 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"create","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2022-10-25 12:45:27.940 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:45:27.940 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than 24 hours ago, not looking for updates[0m
+2022-10-25 12:45:27.947 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:45:27.950 +0530 [debug] ([34mcreate.js[0m) [31m'init' called with /Users/marsubramanian/Desktop/freshservice, undefined, undefined[0m
+2022-10-25 12:45:36.038 +0530 [debug] ([34mcreate.js[0m) [31mInitializing template "your_first_react_app" with product "freshdesk".[0m
+2022-10-25 12:45:36.061 +0530 [info] A new Freshdesk app was successfully created from template "your_first_react_app" with the following files.
+
+2022-10-25 12:46:14.552 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ws.freshdev.io/cli/updates.json","period":24},"log":{"level":"info"},"javascript":{"ecma_version":2020}}"[0m
+2022-10-25 12:46:14.554 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/.fdk/configs.json: Cannot find module '/Users/marsubramanian/.fdk/configs.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:46:14.554 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2022-10-25 12:46:14.554 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/Desktop/freshservice/.fdk/configs.json: Cannot find module '/Users/marsubramanian/Desktop/freshservice/.fdk/configs.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v16.13.0/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:46:14.554 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2022-10-25 12:46:14.555 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{}}"[0m
+2022-10-25 12:46:14.555 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ws.freshdev.io/cli/updates.json","period":24},"log":{"level":"info"},"javascript":{"ecma_version":2020}}"[0m
+2022-10-25 12:46:14.555 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v16.13.0 on darwin[0m
+2022-10-25 12:46:14.555 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "/Users/marsubramanian/Desktop/freshservice/.fdk/store.sqlite"[0m
+2022-10-25 12:46:14.556 +0530 [error] [31m[ERROR][0m  Node.js version of 14.x.x is required to run this SDK. v16.13.0 found.
+2022-10-25 12:48:25.940 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ws.freshdev.io/cli/updates.json","period":24},"log":{"level":"info"},"javascript":{"ecma_version":2020}}"[0m
+2022-10-25 12:48:25.942 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/.fdk/configs.json: Cannot find module '/Users/marsubramanian/.fdk/configs.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:48:25.942 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2022-10-25 12:48:25.942 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/Desktop/freshservice/.fdk/configs.json: Cannot find module '/Users/marsubramanian/Desktop/freshservice/.fdk/configs.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:48:25.943 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2022-10-25 12:48:25.943 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{}}"[0m
+2022-10-25 12:48:25.943 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ws.freshdev.io/cli/updates.json","period":24},"log":{"level":"info"},"javascript":{"ecma_version":2020}}"[0m
+2022-10-25 12:48:25.943 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v14.19.3 on darwin[0m
+2022-10-25 12:48:25.943 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "/Users/marsubramanian/Desktop/freshservice/.fdk/store.sqlite"[0m
+2022-10-25 12:48:25.943 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"run","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2022-10-25 12:48:25.943 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:48:25.943 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than 24 hours ago, not looking for updates[0m
+2022-10-25 12:48:26.339 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"2.2","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"index.html","icon":"icon.svg"}}}},"whitelisted-domains":[],"engines":{"node":"14.19.3","fdk":"8.6.5"}}.[0m
+2022-10-25 12:48:26.340 +0530 [debug] ([34mmanifest.js[0m) [31mInferred db as features.[0m
+2022-10-25 12:48:26.342 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:48:26.371 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:48:26.753 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/Desktop/freshservice/.report.json: Cannot find module '/Users/marsubramanian/Desktop/freshservice/.report.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:48:28.240 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:48:29.149 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2022-10-25 12:48:29.149 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2022-10-25 12:48:29.149 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2022-10-25 12:48:29.150 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2022-10-25 12:48:29.150 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if /Users/marsubramanian/Desktop/freshservice/config/ exists.[0m
+2022-10-25 12:48:29.151 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2022-10-25 12:48:29.151 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2022-10-25 12:48:29.151 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2022-10-25 12:48:29.151 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2022-10-25 12:48:29.153 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator lint[0m
+2022-10-25 12:48:29.153 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2022-10-25 12:48:29.153 +0530 [debug] ([34mmanifest.js[0m) [31mrunning manifest validation with type run_validation[0m
+2022-10-25 12:48:29.154 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2022-10-25 12:48:29.154 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2022-10-25 12:48:29.154 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2022-10-25 12:48:29.154 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2022-10-25 12:48:29.154 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2022-10-25 12:48:29.157 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2022-10-25 12:48:29.297 +0530 [debug] ([34mcoverage-util.js[0m) [31mSnoozing coverage.[0m
+2022-10-25 12:48:29.297 +0530 [debug] ([34mfrontend_framework-util.js[0m) [31mMounting the default Webpack config[0m
+2022-10-25 12:48:30.189 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:48:30.189 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? false[0m
+2022-10-25 12:48:30.189 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync db[0m
+2022-10-25 12:48:30.505 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app/index.html"}" to all listeners.[0m
+2022-10-25 12:48:30.561 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/bigint-pivot.js"[0m
+2022-10-25 12:48:30.564 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/entity-field-choice.js"[0m
+2022-10-25 12:48:30.565 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/entity-field.js"[0m
+2022-10-25 12:48:30.567 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/entity.js"[0m
+2022-10-25 12:48:30.568 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/record.js"[0m
+2022-10-25 12:48:30.569 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/string-pivot.js"[0m
+2022-10-25 12:48:30.589 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:48:30.589 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2022-10-25 12:48:30.590 +0530 [info] Starting local testing server at http://*:10001/    
+Append 'dev=true' to your Freshservice account URL to start testing    
+e.g. https://domain.freshservice.com/helpdesk/tickets/1?dev=true    
+Quit the server with Control-C.
+2022-10-25 12:50:31.573 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ws.freshdev.io/cli/updates.json","period":24},"log":{"level":"info"},"javascript":{"ecma_version":2020}}"[0m
+2022-10-25 12:50:31.575 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/.fdk/configs.json: Cannot find module '/Users/marsubramanian/.fdk/configs.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:50:31.575 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2022-10-25 12:50:31.575 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/Desktop/freshservice/.fdk/configs.json: Cannot find module '/Users/marsubramanian/Desktop/freshservice/.fdk/configs.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:50:31.575 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2022-10-25 12:50:31.575 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{}}"[0m
+2022-10-25 12:50:31.575 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ws.freshdev.io/cli/updates.json","period":24},"log":{"level":"info"},"javascript":{"ecma_version":2020}}"[0m
+2022-10-25 12:50:31.575 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v14.19.3 on darwin[0m
+2022-10-25 12:50:31.575 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "/Users/marsubramanian/Desktop/freshservice/.fdk/store.sqlite"[0m
+2022-10-25 12:50:31.575 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"run","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2022-10-25 12:50:31.576 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:50:31.576 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than 24 hours ago, not looking for updates[0m
+2022-10-25 12:50:31.837 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"2.2","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"index.html","icon":"icon.svg"}}}},"whitelisted-domains":[],"engines":{"node":"14.19.3","fdk":"8.6.5"}}.[0m
+2022-10-25 12:50:31.837 +0530 [debug] ([34mmanifest.js[0m) [31mInferred db as features.[0m
+2022-10-25 12:50:31.840 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:50:31.867 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:50:33.381 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:50:34.262 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2022-10-25 12:50:34.263 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2022-10-25 12:50:34.263 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2022-10-25 12:50:34.265 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2022-10-25 12:50:34.265 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if /Users/marsubramanian/Desktop/freshservice/config/ exists.[0m
+2022-10-25 12:50:34.266 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2022-10-25 12:50:34.266 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2022-10-25 12:50:34.266 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2022-10-25 12:50:34.266 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2022-10-25 12:50:34.269 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator lint[0m
+2022-10-25 12:50:34.270 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2022-10-25 12:50:34.270 +0530 [debug] ([34mmanifest.js[0m) [31mrunning manifest validation with type run_validation[0m
+2022-10-25 12:50:34.270 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2022-10-25 12:50:34.270 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2022-10-25 12:50:34.270 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2022-10-25 12:50:34.270 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2022-10-25 12:50:34.271 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2022-10-25 12:50:34.276 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2022-10-25 12:50:34.425 +0530 [debug] ([34mcoverage-util.js[0m) [31mSnoozing coverage.[0m
+2022-10-25 12:50:34.425 +0530 [debug] ([34mfrontend_framework-util.js[0m) [31mMounting the default Webpack config[0m
+2022-10-25 12:50:35.299 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:50:35.299 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? false[0m
+2022-10-25 12:50:35.299 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync db[0m
+2022-10-25 12:50:36.579 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app/index.html"}" to all listeners.[0m
+2022-10-25 12:50:36.653 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/bigint-pivot.js"[0m
+2022-10-25 12:50:36.655 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/entity-field-choice.js"[0m
+2022-10-25 12:50:36.657 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/entity-field.js"[0m
+2022-10-25 12:50:36.658 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/entity.js"[0m
+2022-10-25 12:50:36.658 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/record.js"[0m
+2022-10-25 12:50:36.660 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/string-pivot.js"[0m
+2022-10-25 12:50:36.681 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:50:36.681 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2022-10-25 12:50:36.682 +0530 [info] Starting local testing server at http://*:10001/    
+Append 'dev=true' to your Freshservice account URL to start testing    
+e.g. https://domain.freshservice.com/helpdesk/tickets/1?dev=true    
+Quit the server with Control-C.
+2022-10-25 12:50:51.043 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:50:51.044 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:50:51.044 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"freshservice","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"freshservice","placeholders":{"ticket_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"icon.svg"}}}]}[0m
+2022-10-25 12:50:51.046 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:50:51.047 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:50:51.047 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"freshservice","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"freshservice","placeholders":{"ticket_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"icon.svg"}}}]}[0m
+2022-10-25 12:50:53.498 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2022-10-25 12:50:53.716 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.1e3724b3.js[0m
+2022-10-25 12:50:53.716 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.1e3724b3.js[0m
+2022-10-25 12:50:53.727 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.080bb692.js[0m
+2022-10-25 12:50:53.728 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.080bb692.js[0m
+2022-10-25 12:50:53.731 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.e7b1d7f4.js[0m
+2022-10-25 12:50:53.733 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/main.e7b1d7f4.js[0m
+2022-10-25 12:52:06.361 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:52:06.362 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:52:06.362 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"freshservice","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"freshservice","placeholders":{"ticket_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"icon.svg"}}}]}[0m
+2022-10-25 12:52:06.364 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:52:06.364 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:52:06.364 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"freshservice","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"freshservice","placeholders":{"ticket_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"icon.svg"}}}]}[0m
+2022-10-25 12:52:09.938 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2022-10-25 12:52:10.270 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.1e3724b3.js[0m
+2022-10-25 12:52:10.270 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.1e3724b3.js[0m
+2022-10-25 12:52:10.282 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.080bb692.js[0m
+2022-10-25 12:52:10.284 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.080bb692.js[0m
+2022-10-25 12:52:10.287 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.e7b1d7f4.js[0m
+2022-10-25 12:52:10.288 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/main.e7b1d7f4.js[0m
+2022-10-25 12:52:53.240 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:52:53.241 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:52:53.241 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"freshservice","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"freshservice","placeholders":{"ticket_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"icon.svg"}}}]}[0m
+2022-10-25 12:52:53.243 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:52:53.243 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:52:53.243 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"freshservice","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"freshservice","placeholders":{"ticket_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"icon.svg"}}}]}[0m
+2022-10-25 12:52:54.014 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2022-10-25 12:52:54.410 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.1e3724b3.js[0m
+2022-10-25 12:52:54.410 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.1e3724b3.js[0m
+2022-10-25 12:52:54.446 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.080bb692.js[0m
+2022-10-25 12:52:54.447 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.080bb692.js[0m
+2022-10-25 12:52:54.450 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.e7b1d7f4.js[0m
+2022-10-25 12:52:54.450 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/main.e7b1d7f4.js[0m
+2022-10-25 12:54:22.770 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ws.freshdev.io/cli/updates.json","period":24},"log":{"level":"info"},"javascript":{"ecma_version":2020}}"[0m
+2022-10-25 12:54:22.772 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/.fdk/configs.json: Cannot find module '/Users/marsubramanian/.fdk/configs.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:54:22.773 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2022-10-25 12:54:22.773 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring /Users/marsubramanian/Desktop/freshservice/.fdk/configs.json: Cannot find module '/Users/marsubramanian/Desktop/freshservice/.fdk/configs.json'
+Require stack:
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/utils/file-util.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/configs.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/logger.js
+- /Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/index.js[0m
+2022-10-25 12:54:22.773 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2022-10-25 12:54:22.773 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{}}"[0m
+2022-10-25 12:54:22.773 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ws.freshdev.io/cli/updates.json","period":24},"log":{"level":"info"},"javascript":{"ecma_version":2020}}"[0m
+2022-10-25 12:54:22.773 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v14.19.3 on darwin[0m
+2022-10-25 12:54:22.773 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "/Users/marsubramanian/Desktop/freshservice/.fdk/store.sqlite"[0m
+2022-10-25 12:54:22.774 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"run","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2022-10-25 12:54:22.774 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:54:22.774 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than 24 hours ago, not looking for updates[0m
+2022-10-25 12:54:23.033 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"2.2","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"index.html","icon":"icon.svg"}}}},"whitelisted-domains":[],"engines":{"node":"14.19.3","fdk":"8.6.5"}}.[0m
+2022-10-25 12:54:23.033 +0530 [debug] ([34mmanifest.js[0m) [31mInferred db as features.[0m
+2022-10-25 12:54:23.036 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:54:23.061 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:54:24.563 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<8","message":"This FDK version will be deprecated by September 30, 2022. There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest FDK version. For more information, see https://community.developers.freshworks.com/t/5433."},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"8.6.5","command":"npm install https://dl.freshdev.io/cli/fdk.tgz -g","message":""}},"addon":{"version":"1.11.1","url":"https://dl.freshdev.io/cli-addon/addon.zip"}},"last_updated":{"time_stamp":1666682059545}}[0m
+2022-10-25 12:54:25.460 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2022-10-25 12:54:25.461 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2022-10-25 12:54:25.461 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2022-10-25 12:54:25.463 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2022-10-25 12:54:25.463 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if /Users/marsubramanian/Desktop/freshservice/config/ exists.[0m
+2022-10-25 12:54:25.463 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2022-10-25 12:54:25.463 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2022-10-25 12:54:25.464 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2022-10-25 12:54:25.464 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2022-10-25 12:54:25.467 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator lint[0m
+2022-10-25 12:54:25.467 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2022-10-25 12:54:25.467 +0530 [debug] ([34mmanifest.js[0m) [31mrunning manifest validation with type run_validation[0m
+2022-10-25 12:54:25.467 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2022-10-25 12:54:25.467 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2022-10-25 12:54:25.467 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2022-10-25 12:54:25.468 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2022-10-25 12:54:25.468 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2022-10-25 12:54:25.473 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2022-10-25 12:54:25.632 +0530 [debug] ([34mcoverage-util.js[0m) [31mSnoozing coverage.[0m
+2022-10-25 12:54:25.632 +0530 [debug] ([34mfrontend_framework-util.js[0m) [31mMounting the default Webpack config[0m
+2022-10-25 12:54:26.558 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:54:26.559 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? false[0m
+2022-10-25 12:54:26.559 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync db[0m
+2022-10-25 12:54:29.294 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app/index.html"}" to all listeners.[0m
+2022-10-25 12:54:29.384 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/bigint-pivot.js"[0m
+2022-10-25 12:54:29.387 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/entity-field-choice.js"[0m
+2022-10-25 12:54:29.388 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/entity-field.js"[0m
+2022-10-25 12:54:29.389 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/entity.js"[0m
+2022-10-25 12:54:29.390 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/record.js"[0m
+2022-10-25 12:54:29.391 +0530 [debug] ([34mindex.js[0m) [31mloading model at "/Users/marsubramanian/.nvm/versions/node/v14.19.3/lib/node_modules/fdk/lib/models/string-pivot.js"[0m
+2022-10-25 12:54:29.410 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:54:29.411 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2022-10-25 12:54:29.411 +0530 [info] Starting local testing server at http://*:10001/    
+Append 'dev=true' to your Freshservice account URL to start testing    
+e.g. https://domain.freshservice.com/helpdesk/tickets/1?dev=true    
+Quit the server with Control-C.
+2022-10-25 12:55:15.712 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:55:15.712 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:55:15.713 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"freshservice","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"freshservice","placeholders":{"ticket_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"icon.svg"}}}]}[0m
+2022-10-25 12:55:15.715 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:55:15.715 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-10-25 12:55:15.715 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"freshservice","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"freshservice","placeholders":{"ticket_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"icon.svg"}}}]}[0m
+2022-10-25 12:55:16.435 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2022-10-25 12:55:16.861 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.88567fb5.js[0m
+2022-10-25 12:55:16.862 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.88567fb5.js[0m
+2022-10-25 12:55:16.870 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.162ad868.js[0m
+2022-10-25 12:55:16.879 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.162ad868.js[0m
+2022-10-25 12:55:16.887 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.cf7c4610.js[0m
+2022-10-25 12:55:16.889 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/main.cf7c4610.js[0m
+2022-10-25 12:55:46.390 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app/index.html"}" to all listeners.[0m
+2022-10-25 12:55:46.407 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2022-10-25 12:55:46.502 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.88567fb5.js[0m
+2022-10-25 12:55:46.502 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.88567fb5.js[0m
+2022-10-25 12:55:46.505 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.162ad868.js[0m
+2022-10-25 12:55:46.514 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.162ad868.js[0m
+2022-10-25 12:55:46.521 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.86f941ef.js[0m
+2022-10-25 12:55:46.522 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/main.86f941ef.js[0m
+2022-10-25 12:55:47.672 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app/index.html"}" to all listeners.[0m
+2022-10-25 12:55:47.680 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2022-10-25 12:55:47.692 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.162ad868.js[0m
+2022-10-25 12:55:47.699 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.162ad868.js[0m
+2022-10-25 12:55:47.706 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.88567fb5.js[0m
+2022-10-25 12:55:47.706 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.88567fb5.js[0m
+2022-10-25 12:55:47.759 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.e7feca19.js[0m
+2022-10-25 12:55:47.759 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/main.e7feca19.js[0m
+2022-10-25 12:55:48.293 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app/index.html"}" to all listeners.[0m
+2022-10-25 12:55:48.300 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2022-10-25 12:55:48.312 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.88567fb5.js[0m
+2022-10-25 12:55:48.312 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.88567fb5.js[0m
+2022-10-25 12:55:48.313 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.162ad868.js[0m
+2022-10-25 12:55:48.320 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.162ad868.js[0m
+2022-10-25 12:55:48.380 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.33353495.js[0m
+2022-10-25 12:55:48.380 +0530 [debug] ([34mcoverage-util.js[0m) [31mSkipped instrumenting ./app/scripts/main.33353495.js[0m
